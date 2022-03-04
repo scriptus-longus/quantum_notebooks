@@ -1,2 +1,2 @@
 # quantum_notebooks
-jupyter notebooks implementing exploring quantum computing
+This repo contains different jupyter notebooks implementing various quantum computing algorithms
